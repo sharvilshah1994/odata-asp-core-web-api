@@ -1,0 +1,14 @@
+E:\test\TestApi\TestApi\bin\Debug\netcoreapp2.1\TestApi.deps.json
+E:\test\TestApi\TestApi\bin\Debug\netcoreapp2.1\TestApi.runtimeconfig.json
+E:\test\TestApi\TestApi\bin\Debug\netcoreapp2.1\TestApi.runtimeconfig.dev.json
+E:\test\TestApi\TestApi\bin\Debug\netcoreapp2.1\TestApi.dll
+E:\test\TestApi\TestApi\obj\Debug\netcoreapp2.1\TestApi.csprojAssemblyReference.cache
+E:\test\TestApi\TestApi\obj\Debug\netcoreapp2.1\TestApi.csproj.CoreCompileInputs.cache
+E:\test\TestApi\TestApi\obj\Debug\netcoreapp2.1\TestApi.RazorAssemblyInfo.cache
+E:\test\TestApi\TestApi\obj\Debug\netcoreapp2.1\TestApi.RazorAssemblyInfo.cs
+E:\test\TestApi\TestApi\obj\Debug\netcoreapp2.1\TestApi.AssemblyInfoInputs.cache
+E:\test\TestApi\TestApi\obj\Debug\netcoreapp2.1\TestApi.AssemblyInfo.cs
+E:\test\TestApi\TestApi\obj\Debug\netcoreapp2.1\TestApi.RazorTargetAssemblyInfo.cache
+E:\test\TestApi\TestApi\bin\Debug\netcoreapp2.1\TestApi.pdb
+E:\test\TestApi\TestApi\obj\Debug\netcoreapp2.1\TestApi.dll
+E:\test\TestApi\TestApi\obj\Debug\netcoreapp2.1\TestApi.pdb
